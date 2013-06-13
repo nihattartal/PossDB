@@ -1,0 +1,11 @@
+Create TABLE table_one (
+    customer_number,
+    address
+);
+
+Insert Into table_one
+Values('a','b','c','d')
+Condition(aar);
+
+Select a,b,c,d,e from Tableux
+Where a = 'Nihat' and b = 'Kamil';
